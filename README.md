@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @religou
-- 👀 I’m interested in SAS\Java\Vue\Rust\
-- 🌱 I’m currently learning Vue\Rust
+- 👋 Hi, This is @religou
+- 👀 Be interested in Java\SAS\Vue\Rust
+- 🌱 Currently learning Vue\Rust
 - 📫 How to reach me? Please contact me by issues.
 
 <!---
