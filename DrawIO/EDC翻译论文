@@ -8,10 +8,10 @@
           <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G9JLOnTccqIHQKxi_K4O-1" value="LLM翻译模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9JLOnTccqIHQKxi_K4O-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="G9JLOnTccqIHQKxi_K4O-2" value="翻译后结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
