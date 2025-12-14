@@ -40,6 +40,12 @@
             <mxPoint x="410" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;dashed=1;dashPattern=1 4;" value="My Tasks" vertex="1">
+          <mxGeometry height="30" width="60" x="100" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;dashed=1;dashPattern=1 4;" value="My eLearning" vertex="1">
+          <mxGeometry height="30" width="60" x="100" y="310" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
