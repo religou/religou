@@ -151,7 +151,7 @@
         <mxCell id="IvOhSB2P8m3o3E0gswXd-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="GAMP5 V" vertex="1">
           <mxGeometry height="30" width="80" x="870" y="931" as="geometry" />
         </mxCell>
-        <mxCell id="IvOhSB2P8m3o3E0gswXd-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="2.1&amp;nbsp;" vertex="1">
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="2.1 模板文件可以直接点开，点开之后就是文档的编辑" vertex="1">
           <mxGeometry height="30" width="660" x="850" y="641" as="geometry" />
         </mxCell>
         <mxCell id="IvOhSB2P8m3o3E0gswXd-82" parent="1" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontColor=#000000;" value="&lt;font style=&quot;&quot;&gt;1. VP_Template 验证计划模板.docx&lt;/font&gt;" vertex="1">
