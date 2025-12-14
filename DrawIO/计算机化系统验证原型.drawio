@@ -49,12 +49,6 @@
         <mxCell id="IvOhSB2P8m3o3E0gswXd-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="1. 一开始登录到系统中，会默认展示Home页面中的 My Tasks 页面，该页面显示待办事项，例如：&lt;div&gt;（1）待撰写的测试用例、待审阅的文档、待批准的文档、待执行的测试用例、待签字的文档&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="660" x="70" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="IvOhSB2P8m3o3E0gswXd-14" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="390" y="330" as="sourcePoint" />
-            <mxPoint x="440" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
