@@ -780,7 +780,7 @@
         <mxCell id="IvOhSB2P8m3o3E0gswXd-424" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="Projects" vertex="1">
           <mxGeometry height="30" width="110" x="3564" y="1370" as="geometry" />
         </mxCell>
-        <mxCell id="IvOhSB2P8m3o3E0gswXd-425" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="3.3 URS 是整个项目贯穿的，所以着重说明URS这块的需求&lt;div&gt;（1）进入到 URS 模块，会显示当前项目的所有URS，并显示每个URS的编号、描述、版本、类别、Priority&lt;/div&gt;&lt;div&gt;（2）可以点击右上角的 Add URS、或者可以使用导入的功能，创建新的需求&lt;/div&gt;&lt;div&gt;（3）每个需求编号需要是系统自动生成的，自动生成的规则可以是系统+版本+01、02、03 递增&lt;/div&gt;&lt;div&gt;（4）每个需求都需要有工作流，比如需求被创建提交之后，需要被审核，审核完成之后，才算完成&lt;/div&gt;" vertex="1">
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-425" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="3.4.&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="660" x="3308" y="1290" as="geometry" />
         </mxCell>
         <mxCell id="IvOhSB2P8m3o3E0gswXd-426" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Project Manage" vertex="1">
