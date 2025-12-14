@@ -205,6 +205,24 @@
         <mxCell id="IvOhSB2P8m3o3E0gswXd-114" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="Projects" vertex="1">
           <mxGeometry height="30" width="110" x="326" y="1370" as="geometry" />
         </mxCell>
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-191" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Name" vertex="1">
+          <mxGeometry height="30" width="66" x="104" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-192" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Type" vertex="1">
+          <mxGeometry height="30" width="66" x="170" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-193" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Lastest Verison" vertex="1">
+          <mxGeometry height="30" width="120" x="236" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-194" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Description" vertex="1">
+          <mxGeometry height="30" width="120" x="356" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-195" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Description" vertex="1">
+          <mxGeometry height="30" width="120" x="476" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-196" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Status" vertex="1">
+          <mxGeometry height="30" width="120" x="596" y="1440" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
