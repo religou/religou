@@ -164,7 +164,7 @@
           <mxGeometry height="30" width="80" x="870" y="991" as="geometry" />
         </mxCell>
         <mxCell id="IvOhSB2P8m3o3E0gswXd-96" parent="1" style="fillColor=none;strokeColor=none;html=1;fontColor=#596780;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontStyle=0" value="模板文件 / VP_Template 验证计划模板" vertex="1">
-          <mxGeometry height="25" width="360" x="970" y="777.5" as="geometry" />
+          <mxGeometry height="25" width="360" x="992" y="777.5" as="geometry" />
         </mxCell>
         <mxCell id="IvOhSB2P8m3o3E0gswXd-97" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="VP_Template 验证计划模板.docx" vertex="1">
           <mxGeometry height="340" width="400" x="990" y="810" as="geometry" />
