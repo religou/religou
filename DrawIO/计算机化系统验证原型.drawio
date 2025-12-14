@@ -100,6 +100,9 @@
         <mxCell id="IvOhSB2P8m3o3E0gswXd-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Projects" vertex="1">
           <mxGeometry height="30" width="110" x="330" y="720" as="geometry" />
         </mxCell>
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AI/ML" vertex="1">
+          <mxGeometry height="30" width="80" x="94" y="990" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
