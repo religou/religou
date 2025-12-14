@@ -46,8 +46,11 @@
         <mxCell id="IvOhSB2P8m3o3E0gswXd-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="My eLearning" vertex="1">
           <mxGeometry height="30" width="80" x="90" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="IvOhSB2P8m3o3E0gswXd-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="1. 一开始登录到系统中，会默认展示Home页面中的 My Tasks 页面，该页面显示待办事项，例如：&lt;div&gt;（1）待撰写的测试用例、待审阅的文档、待批准的文档、待执行的测试用例、待签字的文档&lt;/div&gt;" vertex="1">
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="1. 一开始登录到系统中，会默认展示Home页面中的 My Tasks 页面，该页面显示待办事项，例如：&lt;div&gt;（1）待撰写的测试用例、待审阅的文档、待批准的文档、待执行的测试用例&lt;/div&gt;&lt;div&gt;（2）上述事件均与电子签关联到一起，完成之后，需要进行电子签字&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="660" x="70" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-16" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="EDC_VP_01 EDC系统验证计划 待审核" vertex="1">
+          <mxGeometry height="30" width="490" x="220" y="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
