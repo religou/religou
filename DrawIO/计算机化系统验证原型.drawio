@@ -13,25 +13,25 @@
             <mxPoint x="430" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w20WaNcQylb00m2cLlpF-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;dashed=1;dashPattern=1 4;" value="Home" vertex="1">
+        <mxCell id="w20WaNcQylb00m2cLlpF-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="Home" vertex="1">
           <mxGeometry height="30" width="60" x="100" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="w20WaNcQylb00m2cLlpF-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;dashed=1;dashPattern=1 4;" value="Docs Library" vertex="1">
+        <mxCell id="w20WaNcQylb00m2cLlpF-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Docs Library" vertex="1">
           <mxGeometry height="30" width="110" x="190" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="w20WaNcQylb00m2cLlpF-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;dashed=1;dashPattern=1 4;" value="Planning" vertex="1">
+        <mxCell id="w20WaNcQylb00m2cLlpF-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Planning" vertex="1">
           <mxGeometry height="30" width="110" x="330" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="IvOhSB2P8m3o3E0gswXd-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;dashed=1;dashPattern=1 4;" value="Requirements" vertex="1">
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Requirements" vertex="1">
           <mxGeometry height="30" width="110" x="470" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="IvOhSB2P8m3o3E0gswXd-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;dashed=1;dashPattern=1 4;" value="Tests" vertex="1">
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tests" vertex="1">
           <mxGeometry height="30" width="110" x="610" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="IvOhSB2P8m3o3E0gswXd-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;dashed=1;dashPattern=1 4;" value="Reports" vertex="1">
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Reports" vertex="1">
           <mxGeometry height="30" width="110" x="890" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="IvOhSB2P8m3o3E0gswXd-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;dashed=1;dashPattern=1 4;" value="Events" vertex="1">
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Events" vertex="1">
           <mxGeometry height="30" width="110" x="750" y="140" as="geometry" />
         </mxCell>
         <mxCell id="IvOhSB2P8m3o3E0gswXd-7" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.115;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="w20WaNcQylb00m2cLlpF-1" value="">
@@ -40,11 +40,14 @@
             <mxPoint x="410" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IvOhSB2P8m3o3E0gswXd-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;dashed=1;dashPattern=1 4;" value="My Tasks" vertex="1">
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="My Tasks" vertex="1">
           <mxGeometry height="30" width="60" x="100" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="IvOhSB2P8m3o3E0gswXd-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;dashed=1;dashPattern=1 4;" value="My eLearning" vertex="1">
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="My eLearning" vertex="1">
           <mxGeometry height="30" width="80" x="90" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="1. 一开始登录到系统中，会默认展示Home页面中的 My Tasks 页面，该页面显示待办事项" vertex="1">
+          <mxGeometry height="30" width="660" x="70" y="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
