@@ -558,7 +558,7 @@
           <mxGeometry height="30" width="140" y="60" as="geometry" />
         </mxCell>
         <mxCell id="IvOhSB2P8m3o3E0gswXd-350" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Requirements &amp;amp; Specifications" vertex="1">
-          <mxGeometry height="120" width="140" x="1700" y="1670" as="geometry">
+          <mxGeometry height="120" width="140" x="1700" y="1640" as="geometry">
             <mxRectangle height="30" width="120" x="1700" y="1430" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
