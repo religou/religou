@@ -238,7 +238,7 @@
             <mxPoint x="1587" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IvOhSB2P8m3o3E0gswXd-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="2.&amp;nbsp;" vertex="1">
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="3. Projects 是所有的验证项目，包括：项目名称、项目类别、项目版本、项目描述、当前项目状态（Initiate、In Validation、Validated、Obsolete）、Supplier" vertex="1">
           <mxGeometry height="30" width="660" x="70" y="1290" as="geometry" />
         </mxCell>
         <mxCell id="IvOhSB2P8m3o3E0gswXd-205" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 4;strokeWidth=2;rounded=0;exitX=-0.001;exitY=0.36;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.965;entryY=0.36;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
