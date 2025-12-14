@@ -490,11 +490,11 @@
         <mxCell id="IvOhSB2P8m3o3E0gswXd-283" parent="1" style="shape=ellipse;rounded=1;fillColor=#F0F2F5;strokeColor=#D8DCE3;fontColor=#000000;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10;html=1;shadow=0;dashed=0;" value="GAMP5 Category 4" vertex="1">
           <mxGeometry height="12" width="12" x="1009.12" y="2280" as="geometry" />
         </mxCell>
-        <mxCell id="IvOhSB2P8m3o3E0gswXd-284" parent="1" style="rounded=1;fillColor=#0057D8;strokeColor=none;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=14;html=1;shadow=0;dashed=0;" value="Publish" vertex="1">
-          <mxGeometry height="33" width="60" x="998.8" y="2380" as="geometry" />
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-284" parent="1" style="rounded=1;fillColor=#0057D8;strokeColor=none;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=14;html=1;shadow=0;dashed=0;" value="Save" vertex="1">
+          <mxGeometry height="33" width="60" x="998.8" y="2350" as="geometry" />
         </mxCell>
         <mxCell id="IvOhSB2P8m3o3E0gswXd-285" parent="1" style="fillColor=none;strokeColor=none;fontColor=#596780;align=center;verticalAlign=middle;fontStyle=0;fontSize=14;html=1;shadow=0;dashed=0;" value="Cancel" vertex="1">
-          <mxGeometry height="33" width="60" x="1068.8" y="2380" as="geometry" />
+          <mxGeometry height="33" width="60" x="1068.8" y="2350" as="geometry" />
         </mxCell>
         <mxCell id="IvOhSB2P8m3o3E0gswXd-286" edge="1" parent="1" source="IvOhSB2P8m3o3E0gswXd-262" style="endArrow=classic;html=1;rounded=0;exitX=0.499;exitY=0.965;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
