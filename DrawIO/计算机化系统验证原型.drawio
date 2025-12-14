@@ -169,6 +169,12 @@
         <mxCell id="IvOhSB2P8m3o3E0gswXd-97" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="VP_Template 验证计划模板.docx" vertex="1">
           <mxGeometry height="340" width="400" x="990" y="810" as="geometry" />
         </mxCell>
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-99" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#5B646A;html=1;whiteSpace=wrap;fillColor=#6C767D;fontColor=#ffffff;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="180" width="106" x="1404" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-100" parent="IvOhSB2P8m3o3E0gswXd-99" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#697279;strokeColor=#5B646A;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=left;spacing=20;" value="History" vertex="1">
+          <mxGeometry height="50" relative="1" width="106" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
