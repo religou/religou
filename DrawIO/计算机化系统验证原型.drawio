@@ -529,7 +529,7 @@
         <mxCell id="IvOhSB2P8m3o3E0gswXd-295" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="Projects" vertex="1">
           <mxGeometry height="30" width="110" x="1946" y="1370" as="geometry" />
         </mxCell>
-        <mxCell id="IvOhSB2P8m3o3E0gswXd-308" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="3.2. 项目创建完成之后，会展示当前项目状态为初始阶段，Project Detail 为上一步创建的项目信息，Milestone Date 会自动收集验证项目中各个节点完成的日期，Validation Team 则需要人工添加验证经理、项目经理、业务负责人、系统拥有者、IT人员、OA人员等等" vertex="1">
+        <mxCell id="IvOhSB2P8m3o3E0gswXd-308" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="3.2. 项目创建完成之后，会展示当前项目状态为初始阶段，Project Detail 为上一步创建的项目信息，Milestone Date 会自动收集验证项目中各个节点完成的日期，Validation Team 则需要人工添加验证经理、项目经理、业务负责人、系统拥有者、IT人员、OA人员等等，完成项目管理之后，可以点击进入到计划阶段，类似于 CDTMS 中的功能" vertex="1">
           <mxGeometry height="30" width="660" x="1690" y="1290" as="geometry" />
         </mxCell>
         <mxCell id="IvOhSB2P8m3o3E0gswXd-339" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Project Manage" vertex="1">
